@@ -1,4 +1,3 @@
-👋 @qikCode here  
 🧠 startups. systems. self-growth  
 🌱 react. tailwind. node.js. and everything in between.  
 💼 freelancing @ 17 | India 🇮🇳  
